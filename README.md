@@ -1,12 +1,12 @@
 # Instacart Analysis with Python
 Analysis of an online grocery store app's data using Python.
 
-# Objective
+## Objective
 ![instacart](https://github.com/christinawiebe/Instacart-Python/assets/148780253/49e5e565-4c64-4cb7-b705-97c6c8a166e8)
 
 Instacart is an online grocery store that operates through an app. Although their sales are already very good, the company wants to uncover more information about their sales patterns. The purpose of this project is to derive insights and make suggestions on how to improve their marketing strategies.
 
-# Key Questions
+## Key Questions
 
 - What are the busiest days of the week and hours of the day?
 - Are there particular times of the day when people spend the most money?
@@ -16,7 +16,7 @@ Instacart is an online grocery store that operates through an app. Although thei
 - Are there differences in ordering habits based on a customer's region?
 - Is there a connection between age and family status in terms of ordering habits?
 
-# Data
+## Data
 Instacart is a real company that’s made their data available online. The "customer" data set as well as the "prices" column in the "products" data set, however, have been fabricated by CareerFoundry for the purpose of this project. 
 
 - customers
@@ -25,7 +25,7 @@ Instacart is a real company that’s made their data available online. The "cust
 - orders_products_prior
 - products
 
-# Tools
+## Tools
 The data was analysed using Python with the following libraries:
 
 - pandas: for data analysis
@@ -34,7 +34,7 @@ The data was analysed using Python with the following libraries:
 - seaborn: for data visualization
 - SciPy: for mathematical equations
 
-# Folders
+## Folders
 
 - Project Management: Contains the Project Brief.
 - Data: Divided into two subfolders "Original Data", containing all the original data sets and "Prepared Data", containing all the data sets that have been changed in any way.
