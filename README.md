@@ -17,7 +17,7 @@ Instacart is an online grocery store that operates through an app. Although thei
 - Is there a connection between age and family status in terms of ordering habits?
 
 ## Data
-Instacart is a real company that’s made their data available online. The "customer" data set as well as the "prices" column in the "products" data set, however, have been fabricated by CareerFoundry for the purpose of this project. 
+Instacart is a real company that’s made their data available online. The "customer" data set as well as the "prices" column in the "products" data set, however, have been fabricated by CareerFoundry for the purpose of this project. Data has not been uploaded due to size.
 
 - customers
 - departments
@@ -36,8 +36,8 @@ The data was analysed using Python with the following libraries:
 
 ## Folders
 
-- Project Management: Contains the Project Brief.
-- Data: Divided into two subfolders "Original Data", containing all the original data sets and "Prepared Data", containing all the data sets that have been changed in any way.
-- Scripts: Contains all the scripts used in this project.
-- Analysis: Conatins all the generated visualizations of this project.
-- Sent to client: Contains an Excel file of the final report.
+- 01 Project Management: Contains the Project Brief.
+- 02 Data: Divided into two subfolders "Original Data", containing all the original data sets and "Prepared Data", containing all the data sets that have been changed in any way.
+- 03 Scripts: Contains all the scripts used in this project.
+- 04 Analysis: Conatins all the generated visualizations of this project.
+- 05 Sent to client: Contains an Excel file of the final report.
