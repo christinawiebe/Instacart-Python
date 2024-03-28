@@ -17,7 +17,7 @@ Instacart is an online grocery store that operates through an app. Although thei
 - Is there a connection between age and family status in terms of ordering habits?
 
 # Data
-Instacart is a real company that’s made their data available online. The "customer" data set as well as the "prices" column in the "products" data set, however have been fabricated by CareerFoundry for the purpose of this project. 
+Instacart is a real company that’s made their data available online. The "customer" data set as well as the "prices" column in the "products" data set, however, have been fabricated by CareerFoundry for the purpose of this project. 
 
 - customers
 - departments
