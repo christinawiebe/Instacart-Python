@@ -26,7 +26,7 @@ Instacart is a real company that’s made their data available online. The "cust
 - products
 
 # Tools
-The data was analysed using Python with the following libraries
+The data was analysed using Python with the following libraries:
 
 - pandas: for data analysis
 - NumPy: for mathematical equations
@@ -36,8 +36,8 @@ The data was analysed using Python with the following libraries
 
 # Folders
 
-- Project Management: Contains the Project Brief
+- Project Management: Contains the Project Brief.
 - Data: Divided into two subfolders "Original Data", containing all the original data sets and "Prepared Data", containing all the data sets that have been changed in any way.
-- Scripts: Contains all the scripts used in this project
-- Analysis: Conatins all the generated visualizations of this project
-- Sent to client: Contains an Excel file of the final report
+- Scripts: Contains all the scripts used in this project.
+- Analysis: Conatins all the generated visualizations of this project.
+- Sent to client: Contains an Excel file of the final report.
