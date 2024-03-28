@@ -1,7 +1,9 @@
 # Instacart Analysis with Python
 Analysis of Instacart's data using Python
+![instacart](https://github.com/christinawiebe/Instacart-Python/assets/148780253/49e5e565-4c64-4cb7-b705-97c6c8a166e8)
 
 # Objective
+
 
 # Key Questions
 
@@ -14,7 +16,7 @@ Analysis of Instacart's data using Python
 - Is there a connection between age and family status in terms of ordering habits?
 
 # Data
-Instacart is a real company that’s made their data available online. The "customer" data set as well as the "prices" column in the "products" data set, however have been fabricated by CareerFoundry for the purpose of this project.
+Instacart is a real company that’s made their data available online. The "customer" data set as well as the "prices" column in the "products" data set, however have been fabricated by CareerFoundry for the purpose of this project. 
 
 - customers
 - departments
