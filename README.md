@@ -1,9 +1,9 @@
 # Instacart Analysis with Python
-Analysis of Instacart's data using Python
-![instacart](https://github.com/christinawiebe/Instacart-Python/assets/148780253/49e5e565-4c64-4cb7-b705-97c6c8a166e8)
+Analysis of an online grocery store app's data using Python.
 
 # Objective
-
+![instacart](https://github.com/christinawiebe/Instacart-Python/assets/148780253/49e5e565-4c64-4cb7-b705-97c6c8a166e8)
+Instacart is an online grocery store that operates through an app. Although their sales are already very good, the company wants to uncover more information about their sales patterns. The purpose of this project is to derive insights and make suggestions on how to improve their marketing strategies.
 
 # Key Questions
 
