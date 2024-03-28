@@ -22,7 +22,7 @@ Instacart is a real company that’s made their data available online. The "cust
 - customers
 - departments
 - orders
-- orders-products-prior
+- orders_products_prior
 - products
 
 # Tools
